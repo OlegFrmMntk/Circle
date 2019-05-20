@@ -1,5 +1,6 @@
 ﻿  Circle.cpp
-c:\users\oleg\source\repos\circle\circle\circle.cpp(18): warning C4018: >: несоответствие типов со знаком и без знака
-c:\users\oleg\source\repos\circle\circle\circle.cpp(20): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\oleg\source\repos\circle\circle\circle.cpp(66): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\oleg\source\repos\circle\circle\circle.cpp(20): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\oleg\source\repos\circle\circle\circle.cpp(22): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\oleg\source\repos\circle\circle\circle.cpp(29): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\oleg\source\repos\circle\circle\circle.cpp(81): warning C4018: <: несоответствие типов со знаком и без знака
   Circle.vcxproj -> C:\Users\Oleg\source\repos\Circle\Debug\Circle.exe
